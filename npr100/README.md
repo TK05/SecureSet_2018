@@ -1,7 +1,9 @@
 # Network Prep Class
+======
 
 
 ### Topics
+------
 
 * Defining Networks
 * OSI & TCP/IP Models, History, Overview of Layers
@@ -30,6 +32,7 @@
 
 
 ### Assignments
+------
 
 * Setup and configure VirtualBox and various VM's to capture NAT Network traffic with Wireshark.
 * Observe and investigate TCP and UDP traffic with Wireshark via netcat listeners and initiators.
@@ -49,6 +52,7 @@
 
 
 ### Tools
+------
 
 * VirtualBox
 * Ubuntu
@@ -62,6 +66,7 @@
 
 
 ### Command Line Things
+------
 
 * ifconfig
 * ping
@@ -78,6 +83,6 @@
 
 
 ### Net Prep Word Cloud
-![alt text][logo]
+------
 
-[logo]: https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/npr100wc.png "Net Prep Word Cloud"
+![alt text](https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/npr100wc.png "Net Prep Word Cloud")
