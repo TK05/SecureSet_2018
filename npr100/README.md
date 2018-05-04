@@ -1,8 +1,4 @@
 # Network Prep Class
-------
-
-
-### Net Prep Word Cloud
 
 ![alt text](https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/npr100wc.png "Net Prep Word Cloud")
 
