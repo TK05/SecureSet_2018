@@ -14,5 +14,3 @@ everything
  * [spr100](./spr100)
    * [README.md](./spr100/README.md)
  * [README.md](./README.md)
- * [createdtree.md](./createdtree.md)
- * [treeforgit.sh](./treeforgit.sh)
