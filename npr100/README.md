@@ -63,4 +63,4 @@
 ### Net Prep Word Cloud
 ![alt text][logo]
 
-[logo]: https://github.com/TK05/SecureSet_2018/images/NPR100.png "Net Prep Word Cloud"
+[logo]: https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/NPR100.png "Net Prep Word Cloud"
