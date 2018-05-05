@@ -1,6 +1,6 @@
 # Logs and Detection 100
 
-![alt text](https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/log100wc.jpg "Aggregated From Lesson Files")
+![alt text](images/log100wc.jpg "Aggregated From Lesson Files")
 
 
 ### Topics
