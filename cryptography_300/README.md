@@ -32,10 +32,10 @@
 * [pad_attack (Python)] - Padding Oracle Attack
 * [wep_attack (Python)] - TODO
 
-[currency_hash (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry300/hw/currency_hash
-[currency_hash_restricted (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry300/hw/currency_hash_restricted
-[pad_attack (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry300/hw/padding_oracle
-[wep_attack (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry300/hw/wep_attack
+[currency_hash (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_300/currency_hash
+[currency_hash_restricted (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_300/currency_hash_restricted
+[pad_attack (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_300/padding_oracle
+[wep_attack (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_300/wep_attack
 
 ### Assignments
 ------

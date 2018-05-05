@@ -29,7 +29,7 @@
 -----
 * [cert_hunt (Python)] - Cert Hex to Integer
 
-[cert_hunt (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry200/hw/cert_hunt
+[cert_hunt (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_200/cert_hunt
 
 ### Assignments
 ------

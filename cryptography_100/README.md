@@ -38,11 +38,11 @@
 * [hash_collisions (Python)] - Birthday Attack 
 * [hmac_find (Python)] - HMAC Authentication 
 
-[rot_cipher (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry100/hw/rot_cipher
-[sub_cipher (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry100/hw/sub_cipher
-[ssl_bruteforce (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry100/hw/ssl_bruteforce
-[hash_collisions (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry100/hw/hash_collisions
-[hmac_find (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cry100/hw/hmac_find
+[rot_cipher (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_100/rot_cipher
+[sub_cipher (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_100/sub_cipher
+[ssl_bruteforce (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_100/ssl_bruteforce
+[hash_collisions (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_100/hash_collisions
+[hmac_find (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/cryptography_100/hmac_find
 
 ### Assignments
 ------
