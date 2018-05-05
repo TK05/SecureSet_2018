@@ -38,8 +38,15 @@
 
 ### Scripts
 -----
-* TODO
+* [char_counter (Python)] - Word/Character Counter
+* [ip_converter (Python)] - IP to Number, Number to IP
+* [uid_lookup (Python)] - UID/Username Lookup Using /etc/passwd
+* [VBoxCreator (Bash)] - Automate VM Creation w/ VBoxManage
 
+[char_counter (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/spr100/hw/char_counter
+[ip_converter (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/spr100/hw/ip_converter
+[uid_lookup (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/spr100/hw/uid_lookup
+[VBoxCreator (Bash)]: https://github.com/TK05/SecureSet_2018/tree/master/spr100/hw/vboxcreator
 
 ### Assignments
 ------
@@ -54,7 +61,6 @@
 * Create functions in python and understand the __main__ function.
 
 
-
 ### Tools
 ------
 
@@ -67,7 +73,6 @@
 * samba
 * Python
 * Shell Scripting
-
 
 
 ### Command Line Things
