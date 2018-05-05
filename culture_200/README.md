@@ -1,6 +1,6 @@
 # Culture 200
 
-![alt text](https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/cul200wc.jpg "Aggregated From Lesson Files")
+![alt text](../images/cul200wc.jpg "Aggregated From Lesson Files")
 
 
 ### Topics

@@ -1,6 +1,6 @@
 # Cryptography 200
 
-![alt text](https://raw.githubusercontent.com/TK05/SecureSet_2018/master/images/cry200wc.jpg "Aggregated From Lesson Files")
+![alt text](../images/cry200wc.jpg "Aggregated From Lesson Files")
 
 
 ### Topics
