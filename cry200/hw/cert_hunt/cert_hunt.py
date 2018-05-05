@@ -1,4 +1,13 @@
 #!/usr/bin/python3
+#Thomas Kelley - SecureSet 2018 
+#Mon 19 Feb 2018 05:22:01 PM MST
+#
+###############################
+#
+#Convert Cert Hex to Integer
+#
+###############################
+
 import re
 
 
