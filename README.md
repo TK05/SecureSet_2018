@@ -1,16 +1,31 @@
 # Tommy Kelley - SecureSet 2018 - Overview
 
-## TODO
-- [] add environment lab details to net 200
-- [] finish net 300, 400
-- [] finish sys 100, 200, 300, 400
-- [] finish strat 100, 200
-- [] finish threat 100, 200
-- [] finish windows 100
+## TODO - 5/5/18
+- [ ] add environment lab details to net 200
+- [x] cul 400 - ongoing
+- [ ] cul 300 - upcoming
+- [ ] cul 300 - upcoming
+- [ ] grc 200 - upcoming
+- [ ] logs 200 - upcoming
+- [ ] logs 300 - upcoming
+- [ ] finish creating net 300
+- [ ] finish creating net 400
+- [x] net 500 - ongoing
+- [ ] net 600 - upcoming
+- [ ] finish creating sys 100
+- [ ] finish creating sys 200
+- [ ] finish creating sys 300
+- [ ] finish creating sys 400
+- [x] sys 500 - ongoing
+- [ ] sys 600 - upcoming
+- [ ] finish creating strat 100
+- [ ] finish creating strat 100
+- [ ] finish creating threat 100
+- [ ] finish creating threat 200
+- [ ] finish creating windows 100
 
-<details>
-    <summary> ## Course Tree - Click to Expand </summary>
-    <p>
+
+## Course Tree
 .
  * [cryptography_100](./cryptography_100)
    * [hash_collisions](./cryptography_100/hash_collisions)
@@ -109,5 +124,3 @@
      * [vboxcreator.sh](./systems_prep/vboxcreator/vboxcreator.sh)
    * [README.md](./systems_prep/README.md)
  * [README.md](./README.md)
-  </p>
-</details>
