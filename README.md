@@ -1,16 +1,16 @@
 # Tommy Kelley - SecureSet 2018 - Overview
 
 ## TODO
-* add environment lab details to net 200
-* finish net 300, 400
-* finish sys 100, 200, 300, 400
-* finish strat 100, 200
-* finish threat 100, 200
-* finish windows 100
+- [] add environment lab details to net 200
+- [] finish net 300, 400
+- [] finish sys 100, 200, 300, 400
+- [] finish strat 100, 200
+- [] finish threat 100, 200
+- [] finish windows 100
 
-
-## Course Tree
-
+<details>
+    <summary> ## Course Tree - Click to Expand </summary>
+    <p>
 .
  * [cryptography_100](./cryptography_100)
    * [hash_collisions](./cryptography_100/hash_collisions)
@@ -70,6 +70,8 @@
    * [cul200wc.jpg](./images/cul200wc.jpg)
    * [grc100wc.jpg](./images/grc100wc.jpg)
    * [log100wc.jpg](./images/log100wc.jpg)
+   * [net100wc.jpg](./images/net100wc.jpg)
+   * [net200wc.jpg](./images/net200wc.jpg)
    * [npr100wc.jpg](./images/npr100wc.jpg)
    * [spr100wc.jpg](./images/spr100wc.jpg)
  * [logs_detection_100](./logs_detection_100)
@@ -80,6 +82,17 @@
    * [README.md](./logs_detection_300/README.md)
  * [net_prep](./net_prep)
    * [README.md](./net_prep/README.md)
+ * [network_100](./network_100)
+   * [README.md](./network_100/README.md)
+ * [network_200](./network_200)
+   * [port_scanner](./network_200/port_scanner)
+     * [portscan.py](./network_200/port_scanner/portscan.py)
+     * [README.md](./network_200/port_scanner/README.md)
+   * [README.md](./network_200/README.md)
+ * [network_300](./network_300)
+ * [network_400](./network_400)
+ * [network_500](./network_500)
+ * [network_600](./network_600)
  * [systems_prep](./systems_prep)
    * [char_counter](./systems_prep/char_counter)
      * [counter.py](./systems_prep/char_counter/counter.py)
@@ -96,3 +109,5 @@
      * [vboxcreator.sh](./systems_prep/vboxcreator/vboxcreator.sh)
    * [README.md](./systems_prep/README.md)
  * [README.md](./README.md)
+  </p>
+</details>
