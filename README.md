@@ -10,8 +10,6 @@
 - [ ] logs 300 - upcoming
 - [x] finish creating net 300
 - [x] finish creating net 400
-- [ ] finish creating net 300
-- [ ] finish creating net 400
 - [x] net 500 - ongoing
 - [ ] net 600 - upcoming
 - [ ] finish creating sys 100
@@ -21,7 +19,7 @@
 - [x] sys 500 - ongoing
 - [ ] sys 600 - upcoming
 - [ ] finish creating strat 100
-- [ ] finish creating strat 100
+- [ ] finish creating strat 200
 - [ ] finish creating threat 100
 - [ ] finish creating threat 200
 - [ ] finish creating windows 100
