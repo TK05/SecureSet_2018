@@ -36,7 +36,7 @@
 -----
 * [port_scanner (Python)] - A Very Simple Port Scanner
 
-[port_scanner (Python)]: /port_scanner
+[port_scanner (Python)]: ./port_scanner
 
 ### Assignments
 ------
