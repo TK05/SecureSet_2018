@@ -8,8 +8,13 @@
 - [ ] grc 200 - upcoming
 - [ ] logs 200 - upcoming
 - [ ] logs 300 - upcoming
+<<<<<<< HEAD
 - [x] finish creating net 300
 - [x] finish creating net 400
+=======
+- [ ] finish creating net 300
+- [ ] finish creating net 400
+>>>>>>> net
 - [x] net 500 - ongoing
 - [ ] net 600 - upcoming
 - [ ] finish creating sys 100
@@ -87,8 +92,11 @@
    * [log100wc.jpg](./images/log100wc.jpg)
    * [net100wc.jpg](./images/net100wc.jpg)
    * [net200wc.jpg](./images/net200wc.jpg)
+<<<<<<< HEAD
    * [net300wc.jpg](./images/net300wc.jpg)
    * [net400wc.jpg](./images/net400wc.jpg)
+=======
+>>>>>>> net
    * [npr100wc.jpg](./images/npr100wc.jpg)
    * [spr100wc.jpg](./images/spr100wc.jpg)
  * [logs_detection_100](./logs_detection_100)
@@ -107,6 +115,7 @@
      * [README.md](./network_200/port_scanner/README.md)
    * [README.md](./network_200/README.md)
  * [network_300](./network_300)
+<<<<<<< HEAD
    * [webapp](./network_300/webapp)
      * [inc](./network_300/webapp/inc)
        * [css](./network_300/webapp/inc/css)
@@ -132,6 +141,9 @@
    * [README.md](./network_300/README.md)
  * [network_400](./network_400)
    * [README.md](./network_400/README.md)
+=======
+ * [network_400](./network_400)
+>>>>>>> net
  * [network_500](./network_500)
  * [network_600](./network_600)
  * [systems_prep](./systems_prep)
