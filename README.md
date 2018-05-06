@@ -1,16 +1,31 @@
 # Tommy Kelley - SecureSet 2018 - Overview
 
-## TODO
-* add environment lab details to net 200
-* finish net 300, 400
-* finish sys 100, 200, 300, 400
-* finish strat 100, 200
-* finish threat 100, 200
-* finish windows 100
+## TODO - 5/5/18
+- [ ] add environment lab details to net 200
+- [x] cul 400 - ongoing
+- [ ] cul 300 - upcoming
+- [ ] cul 300 - upcoming
+- [ ] grc 200 - upcoming
+- [ ] logs 200 - upcoming
+- [ ] logs 300 - upcoming
+- [ ] finish creating net 300
+- [ ] finish creating net 400
+- [x] net 500 - ongoing
+- [ ] net 600 - upcoming
+- [ ] finish creating sys 100
+- [ ] finish creating sys 200
+- [ ] finish creating sys 300
+- [ ] finish creating sys 400
+- [x] sys 500 - ongoing
+- [ ] sys 600 - upcoming
+- [ ] finish creating strat 100
+- [ ] finish creating strat 100
+- [ ] finish creating threat 100
+- [ ] finish creating threat 200
+- [ ] finish creating windows 100
 
 
 ## Course Tree
-
 .
  * [cryptography_100](./cryptography_100)
    * [hash_collisions](./cryptography_100/hash_collisions)
@@ -70,6 +85,8 @@
    * [cul200wc.jpg](./images/cul200wc.jpg)
    * [grc100wc.jpg](./images/grc100wc.jpg)
    * [log100wc.jpg](./images/log100wc.jpg)
+   * [net100wc.jpg](./images/net100wc.jpg)
+   * [net200wc.jpg](./images/net200wc.jpg)
    * [npr100wc.jpg](./images/npr100wc.jpg)
    * [spr100wc.jpg](./images/spr100wc.jpg)
  * [logs_detection_100](./logs_detection_100)
@@ -80,6 +97,17 @@
    * [README.md](./logs_detection_300/README.md)
  * [net_prep](./net_prep)
    * [README.md](./net_prep/README.md)
+ * [network_100](./network_100)
+   * [README.md](./network_100/README.md)
+ * [network_200](./network_200)
+   * [port_scanner](./network_200/port_scanner)
+     * [portscan.py](./network_200/port_scanner/portscan.py)
+     * [README.md](./network_200/port_scanner/README.md)
+   * [README.md](./network_200/README.md)
+ * [network_300](./network_300)
+ * [network_400](./network_400)
+ * [network_500](./network_500)
+ * [network_600](./network_600)
  * [systems_prep](./systems_prep)
    * [char_counter](./systems_prep/char_counter)
      * [counter.py](./systems_prep/char_counter/counter.py)
