@@ -43,10 +43,10 @@
 * [uid_lookup (Python)] - UID/Username Lookup Using /etc/passwd
 * [VBoxCreator (Bash)] - Automate VM Creation w/ VBoxManage
 
-[char_counter (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/systems_prep/char_counter
-[ip_converter (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/systems_prep/ip_converter
-[uid_lookup (Python)]: https://github.com/TK05/SecureSet_2018/tree/master/systems_prep/uid_lookup
-[VBoxCreator (Bash)]: https://github.com/TK05/SecureSet_2018/tree/master/systems_prep/vboxcreator
+[char_counter (Python)]: ./char_counter
+[ip_converter (Python)]: ./ip_converter
+[uid_lookup (Python)]: ./uid_lookup
+[VBoxCreator (Bash)]: ./vboxcreator
 
 ### Assignments
 ------
