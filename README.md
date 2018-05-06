@@ -1,7 +1,12 @@
 # Tommy Kelley - SecureSet 2018 - Overview
 
 ## TODO
-everything
+* add environment lab details to net 200
+* finish net 300, 400
+* finish sys 100, 200, 300, 400
+* finish strat 100, 200
+* finish threat 100, 200
+* finish windows 100
 
 
 ## Course Tree
