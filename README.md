@@ -55,7 +55,7 @@ Use the search bar at the top to search this repository for specific terms.
 ![alt text](./images/searchbar.png "It's at the top... Says search")
 
 
-### TODO - 5/5/18
+### TODO - 5/6/18
 
 - [ ] add environment lab details to net 200
 - [x] cul 400 - ongoing
@@ -68,11 +68,8 @@ Use the search bar at the top to search this repository for specific terms.
 - [x] finish creating net 400
 - [x] net 500 - ongoing
 - [ ] net 600 - upcoming
-- [ ] finish creating sys 100
-- [ ] finish creating sys 200
-- [ ] finish creating sys 300
-- [ ] finish creating sys 400
-- [x] sys 500 - ongoing
+- [x] sys 400 - ongoing
+- [ ] sys 500 - upcoming
 - [ ] sys 600 - upcoming
 - [ ] finish creating strat 100
 - [ ] finish creating strat 200
