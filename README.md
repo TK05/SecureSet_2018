@@ -29,7 +29,7 @@ I have also included any scripts done for classwork/homework to hopefully show m
 * [uid_lookup (Python)] - UID/Username Lookup Using /etc/passwd
 
 
-[setuid_finder(Python)]: ./system_security_100/setuid_finder
+[setuid_finder (Python)]: ./system_security_100/setuid_finder
 [tcplookup (Bash)]: ./system_security_100/tcplookup
 [pslist (Bash)]: ./system_security_100/pslist
 [char_counter (Python)]: ./system_security_prep/char_counter
