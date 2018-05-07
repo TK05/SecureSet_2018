@@ -42,6 +42,12 @@ I have also included any scripts done for classwork/homework to hopefully show m
 [wep_attack (Python)]: ./cryptography_300/wep_attack
 
 
+#### Looking for something specific?
+Use the search bar at the top to search this repository for specific terms.
+
+![alt text](./images/searchbar.png "It's at the top... Says search")
+
+
 ### TODO - 5/5/18
 
 - [ ] add environment lab details to net 200
