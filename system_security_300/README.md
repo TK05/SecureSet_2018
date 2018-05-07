@@ -24,16 +24,6 @@
 * Stack Calls
 * Function Calls
 
-### Scripts
------
-
-* [tcplookup (Bash)] - Convert TCP Connections to Nslookup Output
-* [pslist (Bash)] - ps -aef Output Without Using ps -aef
-* [setuid_finder (Python)] - Find Setuid and World Writeable Files
-
-[tcplookup (Bash)]: ./tcplookup
-[pslist (Bash)]: ./pslist
-[setuid_finder(Python)]: ./setuid_finder
 
 ### Assignments
 ------
