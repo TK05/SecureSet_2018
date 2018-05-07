@@ -13,18 +13,25 @@ I have also included any scripts done for classwork/homework to hopefully show m
 * [pad_attack (Python)] - Padding Oracle Attack
 * [currency_hash_restricted (Python)] - POC Cryptocurrency Miner w/ Minimum Difficulty
 * [currency_hash (Python)] - POC Cryptocurrency Miner
+* [setuid_finder (Python)] - Find Setuid and World Writeable Files
 * [port_scanner (Python)] - A Very Simple Port Scanner
 * [cert_hunt (Python)] - Cert Hex to Integer
 * [hmac_find (Python)] - HMAC Authentication 
 * [hash_collisions (Python)] - Birthday Attack 
 * [ssl_bruteforce (Python)] - Bruteforce SSL Encryption 
+* [pslist (Bash)] - ps -aef Output Without Using ps -aef
 * [sub_cipher (Python)] - Substitution Cipher Using Frequency Analysis
+* [tcplookup (Bash)] - Convert TCP Connections to Nslookup Output
 * [rot_cipher (Python)] - Rotation Cipher
 * [VBoxCreator (Bash)] - Automate VM Creation w/ VBoxManage
 * [char_counter (Python)] - Word/Character Counter
 * [ip_converter (Python)] - IP to Number, Number to IP
 * [uid_lookup (Python)] - UID/Username Lookup Using /etc/passwd
 
+
+[setuid_finder(Python)]: ./system_security_100/setuid_finder
+[tcplookup (Bash)]: ./system_security_100/tcplookup
+[pslist (Bash)]: ./system_security_100/pslist
 [char_counter (Python)]: ./system_security_prep/char_counter
 [ip_converter (Python)]: ./system_security_prep/ip_converter
 [uid_lookup (Python)]: ./system_security_prep/uid_lookup
