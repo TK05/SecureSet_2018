@@ -1,6 +1,6 @@
 ## Tommy Kelley - SecureSet Spring 2018 - Curriculum Overview
 
-####[Resume](./TommyKelleyResume.pdf)
+[####Resume](./TommyKelleyResume.pdf)
 
 For those interested in a breakdown of the topics covered over the course of my 6 months at SecureSet bootcamp. One class represents 3 weeks (24+ hours) of work. I have attempted to broadly represent the topics and concepts covered as well as any tools and basic command line arguments covered or used.
 
